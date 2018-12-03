@@ -1,0 +1,19 @@
+{
+    "name":"@itxbornfire/react-query",
+    "version": "0.0.2",
+    "author": {
+        "name": "Aliziwe",
+        "email": "9409promos@gmail.com"
+    },
+    "main": "index.js",
+    "repository": "t1amat9409/react-query",
+    "dependencies": {
+        "react":"^16.6.3"
+    },
+    "keywords": [
+        "react-query",
+        "npm",
+        "package",
+        "bamblehorse"
+    ]
+}
